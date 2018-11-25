@@ -4337,6 +4337,9 @@ ul.article-list li a i{
   color: #333;
   margin-right: 5px;
 }
+.margin{
+  margin-bottom: 50px;
+}
 
 .art-text{
    float: left;
